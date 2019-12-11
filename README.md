@@ -1,7 +1,5 @@
-# engineering-leaders-newsletters
-A list of engineering leaders newsletters
+# the-growth-engineering-handbook
+A list of resourses for growth engineerings
 
-http://softwareleadweekly.com/   
-http://www.techleadershipweekly.com/  
-https://www.gitprime.com/engineering-impact/  
-https://leadingsoftwarepeople.statushero.com/  
+## Blogs
+[What is Growth Engineering?](https://www.ehfeng.com/what-is-growth-engineering/)
