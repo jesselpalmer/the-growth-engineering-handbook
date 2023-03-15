@@ -1,5 +1,5 @@
 # The Growth Engineering Handbook
-A list of resourses for growth engineerings
+A list of resourses for growth engineers
 
 ## Blogs Posts
 [What is Growth Engineering?](https://www.ehfeng.com/what-is-growth-engineering/)    
