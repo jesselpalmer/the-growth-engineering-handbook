@@ -1,4 +1,4 @@
-# the-growth-engineering-handbook
+# The Growth Engineering Handbook
 A list of resourses for growth engineerings
 
 ## Blogs Posts
